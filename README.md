@@ -10,6 +10,8 @@ analysis, data cleaning, preprocessing decisions, and feature selection.
 
 ## Demo
 
+Live app: [wafa-credit-score.streamlit.app](https://wafa-credit-score.streamlit.app/)
+
 The Streamlit app is designed to run directly from this repository:
 
 ```bash

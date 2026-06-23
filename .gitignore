@@ -1,0 +1,22 @@
+.DS_Store
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Generated model artifacts
+best_lgbm.pkl
+model_metrics.json
+*.pkl
+!artifacts/
+!artifacts/credit_score_model.pkl
+!artifacts/model_metrics.json
+
+# Private/raw data kept out of the public portfolio repo
+train.csv
+test.csv
+data/raw/
+
+# Local Streamlit state
+.streamlit/secrets.toml
